@@ -9,6 +9,6 @@ for(i=1;i<=n;i++)
 {
 fact=fact*i;
 }
-printf("factorila of &n is",&fact);
+printf("factorial of &n is",&fact);
 getch();
 }
